@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationScheduler</string>
+    <string name="Not.Title">Job Service!</string>
+</resources>
